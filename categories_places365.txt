@@ -309,11 +309,11 @@
 /s/slum 308 d
 /s/snowfield 309 n
 /s/soccer_field 310 n
-/s/stable 311 k
+/s/stable 311 w
 /s/stadium/baseball 312 n
 /s/stadium/football 313 n
 /s/stadium/soccer 314 n
-/s/stage/indoor 315 k
+/s/stage/indoor 315 w
 /s/stage/outdoor 316 n
 /s/staircase 317 n
 /s/storage_room 318 n
